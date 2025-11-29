@@ -34,6 +34,7 @@ This project provides an easy-to-use Python script that leverages Discord's Webh
      ```python
      webhook_url = "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
      ```
+For this you can use a .env if you know how to set it up but in this code it doesn't use one so just enter it into the script!
 
 3. **Customize your message:**
    - Modify the `message_content` variable to set your desired message:
