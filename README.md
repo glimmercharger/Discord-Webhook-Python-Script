@@ -18,21 +18,6 @@ This project provides an easy-to-use Python script that leverages Discord's Webh
 - Python 3.6 or higher
 - `requests` library
 
-## 🚀 Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/glimmercharger/Discord-Webhook-Python-Script.git
-   cd Discord-Webhook-Python-Script
-   ```
-
-2. **Install the required dependencies:**
-
-   ```bash
-   pip install requests
-   ```
-
 ## ⚙️ Setup
 
 1. **Create a Discord Webhook:**
@@ -60,10 +45,6 @@ This project provides an easy-to-use Python script that leverages Discord's Webh
 ## 📝 Usage
 
 Run the script to send your message:
-
-```bash
-python Main/Main.py
-```
 
 **Expected output on success:**
 
@@ -107,6 +88,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **[@glimmercharger](https://github.com/glimmercharger)**
+
+GitHub Copilot was used to help the making of the ReadMe!
 
 ---
 
